@@ -19,19 +19,9 @@
 
 -->
 
-# Apache NetBeans Maven Utilities parent pom
+# Migration Notice
 
-[![Build Status](https://ci-builds.apache.org/buildStatus/icon?job=Netbeans%2Fnetbeans-maven-TLP%2Fnetbeans-mavenutils-parent%2Fmaster)](https://ci-builds.apache.org/job/Netbeans/job/netbeans-maven-TLP/job/netbeans-mavenutils-parent/job/master/)
+Content of this repository is archived and migrated to https://github.com/apache/netbeans-mavenutils-nbm-maven-plugin/
 
-[Documentation Site](https://bits.netbeans.org/mavenutilities/parent)
 
-### Get In Touch
-
-[Subscribe](mailto:users-subscribe@netbeans.apache.org) or [mail](mailto:users@netbeans.apache.org) the [users@netbeans.apache.org](mailto:users@netbeans.apache.org) list - Ask questions, find answers, and also help other users.
-
-[Subscribe](mailto:dev-subscribe@netbeans.apache.org) or [mail](mailto:dev@netbeans.apache.org) the [dev@netbeans.apache.org](mailto:dev@netbeans.apache.org) list - Join developement discussions, propose new ideas and connect with contributors.
-
-### Reporting Bugs
-
-Bugs should be reported to https://issues.apache.org/jira/projects/NETBEANS/issues/ using the component **mavenutilities**
 
